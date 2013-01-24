@@ -1,0 +1,29 @@
+{
+  "name": "spatial-trigger",
+  "version": "0.0.0",
+  "description": "enter/exit events for bounding boxes based on events from spatial-events",
+  "main": "index.js",
+  "devDependencies": {
+    "aabb-3d": "~0.0.0",
+    "spatial-events": "~0.0.0",
+    "tape": "~0.2.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/spatial-trigger.git"
+  },
+  "keywords": [
+    "trigger",
+    "spatial",
+    "3d",
+    "bounding",
+    "box"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "eefc5f7fef8aeda7a940532992ca6b807228cfe3"
+}
